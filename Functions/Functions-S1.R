@@ -1,3 +1,4 @@
+require(aricode)
 require(RSpectra)
 require(igraph)
 require(Rdimtools)
