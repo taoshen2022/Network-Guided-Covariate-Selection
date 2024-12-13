@@ -1,7 +1,7 @@
 # Network-Guided Covariate Selection
 
 ## Overview
-This repository presents an extension of the study "Network-Guided Covariate Selection and Related Problems on High-Dimensional Data", providing code for both simulation studies and real-world network analysis.
+This repository presents an extension of the study "High-Dimensional Data Integration: Optimal Network-Guided Covariate Selection", providing code for both simulation studies and real-world network analysis.
 
 ## Getting Started
 
