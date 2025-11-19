@@ -10,14 +10,14 @@ To prepare for the experiments, ensure all required packages listed in "requirem
 
 ### Run experiments (below are some examples)
 ```
-Rscript ./Simultion/DCSBM-1.R
-Rscript ./Simultion/RDPG-1.R
+Rscript ./Simultion/Exp1_formal.R
+Rscript ./Supplementary/RDPG-1.R
 ```
 ## Reproducing our Figures
 
 To reproduce the figures presented in the paper, follow these steps:
 
-1. Run the Experiments: Execute the scripts in "Simulation" and "Real network analysis" directories.
+1. Run the Experiments: Execute the scripts in "Simulation", "Real network analysis" and "Supplementary" directories.
 2. Save Results: Store the output as specified in the script instructions.
 3. Generate Visualizations: Execute the corresponding visualization scripts to create the figures.
 
